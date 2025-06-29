@@ -5,5 +5,8 @@ public class Hello {
 }
 
 first commit
+<<<<<<< HEAD
 second commit
 third commit
+=======
+>>>>>>> parent of b0b51e6 (Update Hello.java)
